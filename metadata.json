@@ -1,0 +1,6 @@
+{
+  "name": "Hangman: Cryptic Gallows",
+  "description": "An atmospheric physics-driven Hangman word puzzle game with procedural Web Audio synthesis, interactive rope simulation, rich word categories, and difficulty modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
